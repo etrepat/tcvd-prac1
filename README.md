@@ -1,4 +1,5 @@
-# M2.951 · Tipología i cicle de vida de les dades - PRAC 1: Web Scraping
+# M2.951 · Tipología i cicle de vida de les dades
+# PRAC 1: Web Scraping
 
 ## Descripció
 
